@@ -1,0 +1,11 @@
+# Temporary artifacts and local machine files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+~$*
+# Local environment and credentials, if ever added
+.env
+.env.*
+*.pem
+*.key
