@@ -41,7 +41,7 @@ Other tools or processes (for example SQL, DAX measures, or Power Query transfor
 
 ## Dashboard preview
 
-**Genuine Power BI screenshot coming next.** A screenshot of the actual report will be added to `images/` and displayed here after it is exported from Power BI Desktop. This README does not contain a fabricated dashboard visualization.
+![E-Commerce Sales Dashboard](ecommerce-dashboard.png)
 
 ## Repository structure
 
